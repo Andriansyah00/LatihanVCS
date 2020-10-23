@@ -14,7 +14,7 @@ Matkul : Bahasa pemogramman
 
 
 1. Download Git terlebih dahulu, dengan link berikut ini : git-scm.com
-![ss10](picture/Screenshot%20(10).png)
+![ss10](picture/Screenshot(10).png)
 2. Setelah file terdownload, silahkan lakukan instalasi.
 3. Setelah installasi selesai lakukan pengecekan pada git, Dengan cara membuka aplikasi Git bush pada Windows. Lalu ketik perintah : git --version
  ![jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama, kita harus mengkonfigurasi user name dan     email di Git dan     langsung lakukan pengecekan user name dan email, dengan mengetik syntax berikut :]
