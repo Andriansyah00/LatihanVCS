@@ -13,9 +13,10 @@ Matkul : Bahasa pemogramman
 # Langkah-Langkah penggunaan Git
 
 
-1. Download Git terlebih dahulu, dengan link berikut ini : Click Here Gambar Git SCM
-2. Setelah file terdownload, silahkan instalasi dengan referensi berikut ini : Git installasi Guide Gambar Git SCM
+1. Download Git terlebih dahulu, dengan link berikut ini : git-scm.com
+2. Setelah file terdownload, silahkan lakukan instalasi.
 3. Setelah installasi selesai lakukan pengecekan pada git, Dengan cara membuka aplikasi Git bush pada Windows. Lalu ketik perintah : git --version
+   ![ss10](picture/Screenshot(10).png)
  ![jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama, kita harus mengkonfigurasi user name dan     email di Git dan     langsung lakukan pengecekan user name dan email, dengan mengetik syntax berikut :]
 4. Setelah installasi git--version selesai lalu klik perintah :(https://github.com/) Gambar Git create Repository
 5. Setelah Git create Repository selesai, lalu buka File Explorer pada sebuah folder, dan klik kanan, pilih Git Bash Here Gambar Git Bash Here
